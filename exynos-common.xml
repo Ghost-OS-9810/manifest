@@ -5,8 +5,8 @@
        * For use with PixelExperience / PixelExperience-based ROMs -->
 
   <!--SLSI-->
-  <project name="Sexynos/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="twelve" remote="github"/>
+  <project name="Pixel-OS-9810/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="arrow-12.1" remote="github"/>
   <!--Hardware-->
-  <project name="Sexynos/android_hardware_samsung" path="hardware/samsung" revision="twelve" remote="github"/>
+  <project name="Pixel-OS-9810/android_hardware_samsung" path="hardware/samsung" revision="arrow-12.1" remote="github"/>
 
 </manifest>
