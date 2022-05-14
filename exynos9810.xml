@@ -16,5 +16,8 @@
   <project name="Pixel-OS-9810/proprietary_vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="arrow-12.1" remote="github"/>
   <!--Kernel-->
   <project name="Pixel-OS-9810/proprietary_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="4.9.312" remote="github"/>
-
+  <!--SLSI-->
+  <project name="Pixel-OS-9810/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="arrow-12.1" remote="github"/>
+  <!--Hardware-->
+  <project name="Pixel-OS-9810/android_hardware_samsung" path="hardware/samsung" revision="arrow-12.1" remote="github"
 </manifest>
